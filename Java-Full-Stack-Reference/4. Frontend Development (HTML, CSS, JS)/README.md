@@ -29,7 +29,7 @@ JavaScript is essential for enabling client-side interactivity, such as dynamica
 
 ---
 
-## Navigation Links
+## Reference to Spring Boot Frontend Development Integration
 
 - [Spring Boot Gradle Frontend and Backend Integration](SpringBoot_Gradlew_FE_BE_Integration.md)
 - [Spring Boot Maven Frontend and Backend Integration](SpringBoot_Maven_FE_BE_Integration.md)
