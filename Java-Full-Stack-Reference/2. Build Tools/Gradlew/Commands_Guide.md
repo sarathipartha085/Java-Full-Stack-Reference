@@ -1,6 +1,3 @@
-Below is the content for a `README.md` file that explains all possible `gradlew` commands and their uses:
-
-```markdown
 # Gradle Wrapper (`gradlew`) Commands Guide
 
 The Gradle Wrapper (`gradlew`) script allows you to execute Gradle tasks without requiring Gradle to be installed globally. This guide lists commonly used `gradlew` commands and their purposes.
@@ -167,12 +164,3 @@ gradlew hello
    gradlew clean build
    ```
 4. **First-Time Setup**: The first time you run `gradlew`, it may download the specified Gradle version, which could take some time.
-
----
-
-## License
-
-This guide is free to use and distribute. Gradle and the Gradle Wrapper are trademarks of Gradle Inc.
-```
-
-This file serves as a detailed guide for developers working with Gradle and can be placed in the root directory of any Gradle project for easy reference.
