@@ -2,8 +2,8 @@
 
 ### Backend: Gradle & Maven - 1 Day
 
-- **Gradle** (build.gradle): A flexible build tool for Java projects.
-- **Maven** (pom.xml): A project management and build automation tool.
+- **Gradle** (build.gradle): A flexible build tool for Java projects. [For more](Gradlew/)
+- **Maven** (pom.xml): A project management and build automation tool. [For more](Maven/)
 
 Learn both tools, as they are widely used in Java development for managing dependencies, builds, and packaging.
 
