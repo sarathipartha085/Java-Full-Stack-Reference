@@ -9,6 +9,8 @@ Ensure the following are installed:
 - **Java Development Kit (JDK)**: Version 8 or higher.
 - **Gradle**: The Gradle Wrapper (`gradlew`) is included in the project.
 
+For detailed instructions on how to set up the required tools, see the [Prerequisites Guide](Prerequirements.md).
+
 ---
 
 ## Steps to Create the Project
@@ -184,5 +186,4 @@ To remove all generated build outputs:
 
 ---
 
-## Author
-This project was generated using Gradle's Build Init plugin.
+For detailed commands, see the [Commands Guide](Command_Guide.md).
