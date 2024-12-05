@@ -4,7 +4,7 @@ This guide provides you a structured learning path for mastering Java Full Stack
 
 ## Table of Contents
 
-1. [Version Control (Git)](1.%20Version%20Control%20(Git)/)
+1. [Version Control (Git)](Java-Full-Stack-Reference/1.%20Version%20Control%20(Git)/)
 2. [Build Tools](2.%20Build%20Tools/)
 3. [Java Basics](3.%20Java%20Basics/)
 4. [Frontend Development (HTML, CSS, JS)](4.%20Frontend%20Development%20(HTML,%20CSS,%20JS)/)
