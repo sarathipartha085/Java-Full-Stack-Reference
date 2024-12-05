@@ -186,4 +186,4 @@ To remove all generated build outputs:
 
 ---
 
-For detailed commands, see the [Commands Guide](Command_Guide.md).
+For detailed commands, see the [Commands Guide](Commands_Guide.md).
