@@ -15,3 +15,6 @@ A solid understanding of OOP concepts is essential. Focus on one concept per day
   - Liskov Substitution Principle (LSP)
   - Interface Segregation Principle (ISP)
   - Dependency Inversion Principle (DIP)
+
+## References
+- **Video on SOLID Principles using Java:** [SOLID Principles Explained with Examples](https://www.youtube.com/watch?v=BM_lSZPMClo)
