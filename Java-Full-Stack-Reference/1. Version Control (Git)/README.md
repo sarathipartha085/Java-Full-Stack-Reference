@@ -9,7 +9,9 @@ Git is essential for version control and collaboration. Understanding Git is fun
 
 ## References:
 - Refer by your own or explore some websites such as:
-  - [Pro Git Book](https://git-scm.com/book/en/v2) - Comprehensive guide to Git.
-  - [Git Documentation](https://git-scm.com/doc) - Official Git documentation.
-  - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - Tutorials for beginners and advanced Git users.
-  - [GitHub Docs](https://docs.github.com/en/github) - Official GitHub documentation for working with repositories.
+  - [GeeksforGeeks Git Cheat Sheet](https://www.geeksforgeeks.org/git-cheat-sheet/) - Quick reference for Git commands.
+
+## Git Cheat Sheet:
+Here’s a visual representation of common Git commands:
+
+![Git Cheat Sheet](https://wac-cdn.atlassian.com/dam/jcr:d60ca565-89db-4f07-98a0-dd35fae97293/git1.jpg?cdnVersion=2457)
