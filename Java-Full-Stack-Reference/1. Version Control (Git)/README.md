@@ -7,10 +7,6 @@ Git is essential for version control and collaboration. Understanding Git is fun
 - Git basics: Clone, commit, push, pull, branch
 - Understanding `git flow` and best practices for team collaboration
 
-## References:
-- Refer by your own or explore some websites such as:
-  - [GeeksforGeeks Git Cheat Sheet](https://www.geeksforgeeks.org/git-cheat-sheet/) - Quick reference for Git commands.
-
 ## Git Cheat Sheet:
 Here’s a PDF link to a comprehensive Git cheat sheet:
 
@@ -19,3 +15,8 @@ Here’s a PDF link to a comprehensive Git cheat sheet:
 Additionally, here’s a visual representation of common Git commands:
 
 ![Git Cheat Sheet](https://wac-cdn.atlassian.com/dam/jcr:d60ca565-89db-4f07-98a0-dd35fae97293/git1.jpg?cdnVersion=2457)
+
+
+## References:
+- Refer by your own or explore some websites such as:
+  - [GeeksforGeeks Git Cheat Sheet](https://www.geeksforgeeks.org/git-cheat-sheet/) - Quick reference for Git commands.
