@@ -1,6 +1,4 @@
-# Build Tools
-
-## 2. Build Tools
+# 2. Build Tools
 
 ### Backend: Gradle & Maven - 1 Day
 
@@ -8,7 +6,7 @@ Java developers often rely on **build tools** for managing dependencies, buildin
 
 ---
 
-### 1. Gradle [For more](Gradlew/)
+### 1. Gradle  
 Gradle is a flexible and powerful build tool for Java projects. It uses a **Groovy** or **Kotlin** DSL for configuration and is known for its performance and flexibility.  
 
 - **Key File**: `build.gradle`
@@ -17,9 +15,11 @@ Gradle is a flexible and powerful build tool for Java projects. It uses a **Groo
   - Supports multi-project builds.
   - Highly customizable and integrates with various tools.
 
+- **Learn More**: [Gradle Documentation](Gradlew/)
+
 ---
 
-### 2. Maven [For more](Maven/)
+### 2. Maven  
 Maven is a project management and build automation tool based on **XML configuration**. It simplifies project builds with its convention-over-configuration approach.  
 
 - **Key File**: `pom.xml`
@@ -28,9 +28,12 @@ Maven is a project management and build automation tool based on **XML configura
   - Standardized project structure.
   - Plugin support for various build and testing tasks.
 
+- **Learn More**: [Maven Documentation](Maven/)
+
 ---
 
 ### Frontend: NPM (Not Required for Now)
+
 While **NPM (Node Package Manager)** is a critical tool for frontend development, it is **not required** for backend-focused **Java Full Stack Developers** at this stage. Focus on mastering Gradle, Maven, and core Java concepts for now.
 
 ---
