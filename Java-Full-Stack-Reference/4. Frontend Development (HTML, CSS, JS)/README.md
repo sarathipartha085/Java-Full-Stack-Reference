@@ -1,4 +1,4 @@
-# Frontend Development (HTML, CSS, JS) - 5-7 Days
+# 4. Frontend Development (HTML, CSS, JS) - 5-7 Days
 
 ## Focus Areas
 
