@@ -1,6 +1,6 @@
 # Java Full Stack Reference Guide
 
-> **Important**: I assume that you are already familiar with Java syntax.
+> **Important**: I assume that you know something in Java.
 
 This guide provides you a structured learning path for mastering Java Full Stack development. It covers topics ranging from version control, build tools, and core Java concepts, to advanced topics like databases, the Spring framework, and Object-Oriented Programming (OOP). **Follow the order as outlined for the best results.**
 
