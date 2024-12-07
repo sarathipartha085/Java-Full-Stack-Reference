@@ -35,7 +35,7 @@ Mastering the fundamentals of Java is essential for building a strong foundation
 
 1. **Lecture Notes**  
    Refer to **Sivaganesan Sir Lecture Notes** for additional details:
-   [Siva Sir Lectures](/Sivaganesan%20Sir%20-%20Lectures)
+   [Siva Sir Lectures](./Sivaganesan%20Sir%20-%20Lectures)
 
 3. **Online Resources**  
    Explore these websites for more insights:  
