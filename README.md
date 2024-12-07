@@ -1,8 +1,8 @@
 # Java Full Stack Reference Guide
 
-This guide provides you a structured learning path for mastering Java Full Stack development. It covers topics ranging from version control, build tools, and core Java concepts, to advanced topics like databases, the Spring framework, and Object-Oriented Programming (OOP). **Follow the order as outlined for the best results.**
-
 > **Important**: I assume that you are already familiar with Java syntax.
+
+This guide provides you a structured learning path for mastering Java Full Stack development. It covers topics ranging from version control, build tools, and core Java concepts, to advanced topics like databases, the Spring framework, and Object-Oriented Programming (OOP). **Follow the order as outlined for the best results.**
 
 ## Table of Contents
 
