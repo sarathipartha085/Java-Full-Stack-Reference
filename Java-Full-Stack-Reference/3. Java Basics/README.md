@@ -1,10 +1,5 @@
 # 3. Java Basics - 2 Days
 
----
-**Lecture Notes**  
-   Refer to **Sivaganesan Sir Lecture Notes** for additional details:  [Siva Sir Lectures](/Sivaganesan%20Sir%20-%20Lectures)
----
-
 Mastering the fundamentals of Java is essential for building a strong foundation as a Java developer. This section outlines key concepts to learn and provides helpful references.
 
 ---
@@ -38,7 +33,11 @@ Mastering the fundamentals of Java is essential for building a strong foundation
 
 ## References
 
-**Online Resources**  
+1. **Lecture Notes**  
+   Refer to **Sivaganesan Sir Lecture Notes** for additional details:  
+   [Siva Sir Lectures](/Sivaganesan%20Sir%20-%20Lectures)
+
+2. **Online Resources**  
    Explore these websites for more insights:  
    - [GeeksforGeeks - Java Basics](https://www.geeksforgeeks.org/java/)  
    - [Java Tutorials - Oracle Documentation](https://docs.oracle.com/javase/tutorial/)  
