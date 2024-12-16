@@ -1,5 +1,9 @@
 # 7. Databases
 
+> **Note:** Always follow the order of the resources provided below. This will help you understand each concept progressively and learn more efficiently.
+
+---
+
 ## 1. SQL - 2 Days
 
 ### Focus Areas:
@@ -31,7 +35,7 @@
 - **CRUD Operations in NoSQL Databases:**
   - **MongoDB:**
     - Create, Read, Update, and Delete operations using MongoDB shell or Node.js/MongoDB drivers.
-  - **Firestore:** ( Same as mangoDb but it is purely cloudDB)
+  - **Firestore:** (Similar to MongoDB but purely cloud-based)
     - CRUD operations using Firestore SDK for web or mobile applications.
 
 ### Resources:
@@ -53,4 +57,3 @@
 
 ### Resources:
 - [JPA and Hibernate Tutorial](https://www.baeldung.com/learn-jpa-hibernate)
-
