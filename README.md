@@ -24,4 +24,4 @@ This guide provides you a structured learning path for mastering Java Full Stack
 
 ---
 
-> Dedicate time to learning every day without interruption.
+> **Dedicate time to learning every day without interruption.**
