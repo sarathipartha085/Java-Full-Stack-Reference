@@ -2,8 +2,6 @@
 
 > **Important**: I assume that you know something in Java.
 
-> **Dedicate time to learning every day without interruption.**
-
 This guide provides you a structured learning path for mastering Java Full Stack development. It covers topics ranging from version control, build tools, and core Java concepts, to advanced topics like databases, the Spring framework, and Object-Oriented Programming (OOP). **Follow the order as outlined for the best results.**
 
 ## Table of Contents
@@ -23,4 +21,7 @@ This guide provides you a structured learning path for mastering Java Full Stack
 
 1. Follow the topics in the order listed from 1 to 8.
 2. Focus especially on concepts 1, 3, and 5 as they are foundational for understanding and implementing Spring and other frameworks.
-3. > **Dedicate time to learning every day without interruption.**
+
+---
+
+> Dedicate time to learning every day without interruption.
