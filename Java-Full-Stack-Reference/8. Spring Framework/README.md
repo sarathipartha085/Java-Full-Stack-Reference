@@ -20,9 +20,10 @@ The **Spring Framework** is a powerful tool for building Java-based enterprise a
    - Understand how to create **web applications** using Spring MVC.
    - Learn about the **Controller**, **View**, and **Model** components in the MVC pattern.
 
-4. **Spring Data JPA:**
+4. **Spring Data JPA** *(Already covered in Databases section)*:
    - Learn to interact with databases using **JPA repositories**.
    - Automate CRUD operations and query execution using Spring Data JPA.
+   - Since **JPA** and **Hibernate** are already covered in the **Databases** section (Topic 7), you can skip this part for Spring and focus on the Spring-specific integrations.
 
 5. **Spring Security:**
    - Learn how to secure your applications with **authentication** and **authorization** mechanisms.
@@ -37,7 +38,7 @@ The **Spring Framework** is a powerful tool for building Java-based enterprise a
 ### Resources:
 
 1. **Spring Guides:**
-   - The [Spring Guides](https://spring.io/guides) provides the implementation approach for topics like building a RESTful web service, scheduling tasks, file uploads, and more. Search for a specific guide to dive deeper into practical implementations of Spring.
+   - The [Spring Guides](https://spring.io/guides) provide practical implementation approaches for topics like building a RESTful web service, scheduling tasks, file uploads, and more. Search for a specific guide to dive deeper into practical implementations of Spring.
 
 2. **Spring Framework Reference Documentation:**
    - The [Spring Framework Reference](https://docs.spring.io/spring-framework/docs/3.0.x/spring-framework-reference/html/overview.html) offers comprehensive details on the Spring architecture, core concepts, and best practices. It's a must-read for understanding Spring's inner workings.
