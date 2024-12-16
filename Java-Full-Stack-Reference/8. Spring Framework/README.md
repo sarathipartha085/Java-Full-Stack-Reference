@@ -35,7 +35,7 @@ The **Spring Framework** is a powerful tool for building Java-based enterprise a
 
 ---
 
-### Resources:
+### External References:
 
 1. **Spring Guides:**
    - The [Spring Guides](https://spring.io/guides) provide practical implementation approaches for topics like building a RESTful web service, scheduling tasks, file uploads, and more. Search for a specific guide to dive deeper into practical implementations of Spring.
