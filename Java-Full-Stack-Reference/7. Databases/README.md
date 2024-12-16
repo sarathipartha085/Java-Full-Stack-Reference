@@ -17,7 +17,7 @@
   - Foreign keys and primary keys
 
 ### Resources:
-- [Your Notes] (https://drive.google.com/drive/folders/1OeHQaGTxgvBakJIbQ1QC9grO7WqDkPDg)
+- [Your Notes](https://drive.google.com/drive/folders/1OeHQaGTxgvBakJIbQ1QC9grO7WqDkPDg)
 - [SQL Tutorial by W3Schools](https://www.w3schools.com/sql/)
 
 ---
