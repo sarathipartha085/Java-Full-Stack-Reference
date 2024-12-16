@@ -24,4 +24,4 @@ This guide provides you a structured learning path for mastering Java Full Stack
 
 ---
 
-> **Finnaly, The task that you need to do is: Make a consistent commitment to learning each day without distractions.**
+> **Finally, The task that you need to do is: Make a consistent commitment to learning each day without distractions.**
